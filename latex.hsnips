@@ -325,8 +325,8 @@ snippet oo "\infty" iAmm
 \infty
 endsnippet
 
-snippet ... "cdots" iAm
-\cdots 
+snippet ... "dots" iAm
+\dots 
 endsnippet
 
 snippet <> "hokje" iA
